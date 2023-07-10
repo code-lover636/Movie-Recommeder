@@ -12,7 +12,7 @@ To run this project, you need the following:
 ## Clone the repository or download the project files:
 
    ```bash
-   git clone https://github.com/your-username/movie-recommender.git
+   git clone https://github.com/code-lover636/Movie-Recommeder.git
    ```
 
 
